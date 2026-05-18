@@ -45,7 +45,7 @@ Java • Spring • Node.js • MySQL • MongoDB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" width="40"/>
+  <img src="https://toppng.com/uploads/preview/openshift-logo-11609371066vbuzm6vux8.png" width="40" />
 </p>
 
 Docker • Kubernetes • Terraform • Jenkins • Bitbucket • Grafana • Prometheus • OpenTelemetry • OpenShift
