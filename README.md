@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Calvin Saragih</h1>
-<h3 align="center">Software Developer based in Estonia</h3>
-
----
-
-### 💼 Work Experience
-
-**Assistant Manager - Digital Banking Developer** *[SMBCI](https://www.smbci.com/en) (Sumitomo Mitsui Banking Corporation Indonesia, part of [SMBC Group](https://www.smbc.co.jp/en/))* | September 2020 - August 2025  
-- Worked on the [Jenius](https://www.jenius.com/) app ([App Store](https://apps.apple.com/id/app/jenius/id1079340119)), backend microservices, and internal web applications.
-
-**Software Engineer**  
-*[Astra Digital](https://astradigital.id/)* (part of [Astra International](https://www.astra.co.id/)) | September 2018 - September 2020  
-- Contributed to the development of Astra International digital products: <a href="https://www.seva.id/" target="_blank">Seva.id</a>, CariParkir, and Movic.
-
-  
----
-
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/calvinsaragih/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -58,6 +41,19 @@ Docker • Kubernetes • Terraform • Jenkins • Bitbucket • Grafana • Pr
 </p>
 
 JavaScript • TypeScript • React • React Native
+
+---
+
+### 💼 Work Experience
+
+**Assistant Manager - Digital Banking Developer** *[SMBCI](https://www.smbci.com/en) (Sumitomo Mitsui Banking Corporation Indonesia, part of [SMBC Group](https://www.smbc.co.jp/en/))* | September 2020 - August 2025  
+- Worked on the [Jenius](https://www.jenius.com/) app ([App Store](https://apps.apple.com/id/app/jenius/id1079340119)), backend microservices, and internal web applications.
+
+**Software Engineer**  
+*[Astra Digital](https://astradigital.id/)* (part of [Astra International](https://www.astra.co.id/)) | September 2018 - September 2020  
+- Contributed to the development of Astra International digital products: <a href="https://www.seva.id/" target="_blank">Seva.id</a>, CariParkir, and Movic.
+
+---
 
 ### 📊 GitHub Stats
 
