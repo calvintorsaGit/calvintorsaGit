@@ -48,7 +48,7 @@ JavaScript • TypeScript • React • React Native
 ### 💼 Work Experience
 
 **Assistant Manager - Digital Banking Developer** *[SMBCI](https://www.smbci.com/en) (Sumitomo Mitsui Banking Corporation Indonesia, part of [SMBC Group](https://www.smbc.co.jp/en/))* | September 2020 - August 2025  
-- Worked on the [Jenius](https://www.jenius.com/) app ([App Store](https://apps.apple.com/id/app/jenius/id1079340119)), backend microservices, and internal web applications.
+- Worked on the [Jenius](https://www.jenius.com/) app ([App Store](https://apps.apple.com/id/app/jenius/id1079340119)) with 6 million active user, backend microservices, and internal web applications.
 
 **Software Engineer**  
 *[Astra Digital](https://astradigital.id/)* (part of [Astra International](https://www.astra.co.id/)) | September 2018 - September 2020  
